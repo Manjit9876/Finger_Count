@@ -2,7 +2,6 @@
 
 This project detects and counts the number of fingers shown to a webcam using **OpenCV** and **Mediapipe**.
 
-
 ## 🚀 Features
 - Real-time finger counting from webcam
 - Detects both left and right hands
@@ -19,7 +18,22 @@ Install Python packages from `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 
-
-▶️ How to Run
+# ▶️ How to Run
 python showed_finger.py
 
+FOR EDUCATION PURPOSE ONLY
+
+yaml
+Copy
+Edit
+
+---
+
+### ✅ Now, in terminal:
+
+```bash
+git add README.md
+git rebase --continue
+git push origin master
+
+>>>>>>> 476ba8b (changes)
